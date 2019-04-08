@@ -1,0 +1,10 @@
+.film {
+  padding: 10px;
+  margin: 0 20px;
+}
+
+.film a {
+  text-decoration: none;
+  color: #266fb2;
+  font-weight: bold;
+}
